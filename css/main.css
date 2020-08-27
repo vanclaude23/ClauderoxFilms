@@ -1,0 +1,119 @@
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.v1_2 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(234,161,120,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_3 {
+  width: 446px;
+  color: rgba(125,104,136,1);
+  position: absolute;
+  top: 235px;
+  left: 1437px;
+  font-family: Sedgwick Ave;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_5 {
+  width: 561px;
+  height: 218px;
+  background: rgba(125,104,136,0.800000011920929);
+  opacity: 1;
+  position: absolute;
+  top: 577px;
+  left: 1140px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+.v2_4 {
+  width: 714px;
+  color: rgba(82,63,91,1);
+  position: absolute;
+  top: 54px;
+  left: 909px;
+  font-family: Sedgwick Ave Display;
+  font-weight: Regular;
+  font-size: 160px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_9 {
+  width: 562px;
+  height: 241px;
+  background: url("../images/v2_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 591px;
+  left: 1156px;
+  overflow: hidden;
+}
+.v2_10 {
+  width: 561px;
+  height: 241px;
+  background: rgba(82,63,91,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+.v2_7 {
+  width: 562px;
+  color: rgba(234,161,120,1);
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  font-family: Sedgwick Ave Display;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: center;
+}
+.v2_8 {
+  width: 100%;
+  height: 100%;
+  background: rgba(125,104,136,0.800000011920929);
+  opacity: 1;
+  position: absolute;
+  top: 289px;
+  left: 92px;
+  border-radius: 50%;
+}
+.v2_0 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v2_0.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 345px;
+  left: 572px;
+  border-top-left-radius: 627px;
+  border-top-right-radius: 627px;
+  border-bottom-left-radius: 627px;
+  border-bottom-right-radius: 627px;
+  transform: rotate(-32deg);
+  overflow: hidden;
+}
